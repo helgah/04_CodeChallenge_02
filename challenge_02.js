@@ -23,7 +23,7 @@ let alter = prompt("Bitte geben Sie Ihr Alter ein: ");
 
 switch (true) {
     
-    case (alter < 6 && alter >= 0):
+    case (alter >=0 && alter < 6):
         console.log("Hier ist Deine Milch, " + nameGuest);
         break;
     case (alter < 13):
