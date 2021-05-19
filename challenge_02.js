@@ -1,8 +1,8 @@
 /*********   CODE CHALLENGE 02 **********/
 
 /*
-Geben über eine Prompt-Anforderung einen Namen ein
-Geben über eine Prompt-Anforderung ein Alter ein
+Geben Sie über eine Prompt-Anforderung einen Namen ein
+Geben Sie über eine Prompt-Anforderung ein Alter ein
 
 Geben Sie in Abhängigkeit vom angegebenen Alter 
 folgende Getränkeauswahl in die Konsole aus aus :
